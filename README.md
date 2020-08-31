@@ -32,6 +32,10 @@ Under the 'uneven' folder you will find an example of a responsive grid with som
 
 What this means is that the cards with a class of 'green' will take up the space of two items across the x-axis (with `grid-column: span 2;`) and the same across the y-axis (with `grid-row: span 2;`).
 
+### Layout Grid Flex Folder
+
+Under the 'layout-grid-flex' folder you will find an example of a responsive webpage layout using flexbox for the nav bar and grid to display the projects on the page.
+
 <h2 align='center'>Support</h2>
 
 <p align='center'>
